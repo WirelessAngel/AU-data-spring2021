@@ -29,7 +29,7 @@ The piece was originally intended for a radio audience and it shows. There were 
 
 # Story Pitch
 
-##Media coverage in DC on American views: mapping interviewing diversity
+## Media coverage in DC on American views: mapping interviewing diversity
 
 Media coverage has long been criticized as focusing on a specific type of interviewee for stories. Usually this manifests in the *white rural American in a diner* interview that media orgs will turn to for commentary on a subject.
 
