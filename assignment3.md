@@ -60,7 +60,7 @@ Washington City Paper | 1 | _ | _ | _ | _ | _ | _ | 6
 
 ### Washington City Paper
 
-[Cyclists Fear U.S. Capitol Fencing Will Make Their Commutes Less Safe](Cyclists Fear U.S. Capitol Fencing Will Make Their Commutes Less Safe)
+[Cyclists Fear U.S. Capitol Fencing Will Make Their Commutes Less Safe](https://washingtoncitypaper.com/article/507002/cyclists-fear-u-s-capitol-fencing-will-make-their-commutes-less-safe/)
 
 6 | 2 Black (not mentioned/referred to in story) 
 
