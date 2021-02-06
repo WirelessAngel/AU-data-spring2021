@@ -22,8 +22,8 @@ For the chart below. I scanned through stories from five (5) DC publications loo
 
 
 Publication | Stories scraped | White | Black | Latinx | American Indian | Asian |Two or more races | not specified
------------------|----------------|----------------
-NPR (WAMU)/ DCist | 2 | 1 | _ | 1 | _ | 2 | _ | 5
+-----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------
+NPR (WAMU) | 2 | 1 | _ | 1 | _ | 2 | _ | 5
 Washington Post | 1 | _ | _ | _ | _ | _ | _ | 3
 The Hill | 1 | _ | _ | _ | _ | _ | _ | 5
 The Washington Times | 6 | _ | _ | _ | _ | _ | _ | 6
@@ -33,29 +33,35 @@ Washington City Paper | 6 | _ | _ | _ | _ | _ | _ | 6
 ### NPR
 
 [How Five Families Decided To Send Their Children Back For In-Person Learning — Or Not](https://wamu.org/story/21/02/04/how-five-families-decided-to-send-their-children-back-for-in-person-learning-or-not/)
+
 6 | 1 spanish | 1 white 
 
 [Even With Trump’s Travel Ban Rescinded, D.C.-Area Families Still Find Themselves ‘In Limbo’](https://wamu.org/story/21/02/02/trump-travel-ban-resciended-but-families-still-in-limbo/)
+
 3 | 1 Syrian (Middle Eastern... Asian?) | 1 Iranian (Asian)
 
 ### Washington Post
 
 [Alexandria City Public Schools sets date for reopening; Arlington refuses to follow suit](https://www.washingtonpost.com/local/education/alexandria-arlington-schools-reopening-covid/2021/02/04/1bf19096-6754-11eb-886d-5264d4ceb46d_story.html)
+
 3 | _
 
 ### The Hill
 
 [Lawmakers wager barbecue, sweets and crab claws ahead of Super Bowl](https://thehill.com/blogs/in-the-know/in-the-know/537570-lawmakers-wager-barbecue-crab-claws-ahead-of-super-bowl)
+
 5 | _
 
 ### The Washington Times
 
 [Shell-shocked small businesses brace for minimum wage hike after 'most difficult year'](https://www.washingtontimes.com/news/2021/feb/3/small-businesses-brace-minimum-wage-hike-after-mos/)
+
 6 | _ 
 
 ### Washington City Paper
 
 [Cyclists Fear U.S. Capitol Fencing Will Make Their Commutes Less Safe](Cyclists Fear U.S. Capitol Fencing Will Make Their Commutes Less Safe)
+
 6 | 2 Black (not mentioned/referred to in story) 
 
 
