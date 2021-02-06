@@ -26,8 +26,8 @@ Publication | Stories scraped | White | Black | Latinx | American Indian | Asian
 NPR (WAMU) | 2 | 1 | _ | 1 | _ | 2 | _ | 5
 Washington Post | 1 | _ | _ | _ | _ | _ | _ | 3
 The Hill | 1 | _ | _ | _ | _ | _ | _ | 5
-The Washington Times | 6 | _ | _ | _ | _ | _ | _ | 6
-Washington City Paper | 6 | _ | _ | _ | _ | _ | _ | 6
+The Washington Times | 1 | _ | _ | _ | _ | _ | _ | 6
+Washington City Paper | 1 | _ | _ | _ | _ | _ | _ | 6
 
 
 ### NPR
