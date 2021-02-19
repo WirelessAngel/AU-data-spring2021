@@ -33,9 +33,9 @@ I deleted any other extraneous columns that came as part of the CAMA datasets (h
 
 The dataset also includes homestead codes of 1 or 5. If a unit has this code it means the occupant has received an owner/senior owner write off on their taxes for that particular unit. Meaning they are an owner occupier and that unit is not available for rent. It is assumed that all units without this code indicated are available for rent. So, these entries are also deleted from the dataset.
 
-# *Tomorrow*
+# **Friday**
 
-Certain use codes are reserved for single unit dwellings. Will use either an IF (_) Then (_) statement to assign a unit number of 1 to these units -if blank- or a similar method.
+Certain use codes are reserved for single unit dwellings [**This does not always appear to be true! Check on this tomorrow!**]. Will use either an IF (_) Then (_) statement to assign a unit number of 1 to these units -if blank- or a similar method.
 
 
 Write a sample headline and nut graf based on the most interesting of the three questions.
